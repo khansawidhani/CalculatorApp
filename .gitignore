@@ -45,7 +45,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-/lib/app_theme.dart
+/assets/
 /lib/calculator.dart
-
-/assets/fonts/
