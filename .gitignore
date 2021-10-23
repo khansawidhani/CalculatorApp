@@ -48,4 +48,4 @@ app.*.map.json
 /lib/app_theme.dart
 /lib/calculator.dart
 
-/assets/
+/assets/fonts/
